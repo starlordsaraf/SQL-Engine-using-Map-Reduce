@@ -1,0 +1,9 @@
+0,type,string
+1,ballno,int
+2,over,float
+3,team,string
+4,batsman1,string
+5,batsman2,string
+6,bowler,string
+7,runs,int
+8,extras,int
